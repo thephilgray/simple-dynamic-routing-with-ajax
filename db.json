@@ -1,0 +1,7 @@
+{
+    "products": [
+        {"id": 1, "name": "cup", "sku": "CUP999"},
+        {"id": 2, "name": "bowl", "sku": "BOWL222"},
+        {"id": 3, "name": "spoon", "sku": "SPOON111"}
+    ]
+}
