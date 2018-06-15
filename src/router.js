@@ -7,6 +7,8 @@ import Product from './views/Product.vue';
 Vue.use(Router);
 
 export default new Router({
+  // use history mode to leverage history.pushState API and remove '#' from URL
+  mode: 'history',
   routes: [
     {
       path: '/',
