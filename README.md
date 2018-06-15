@@ -33,7 +33,7 @@ touch db.json
 
 - Create `db.json`
 
-```json
+```js
 // db.json
 {
   "products": [
