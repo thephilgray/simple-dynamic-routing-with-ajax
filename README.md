@@ -46,7 +46,7 @@ touch db.json
 
 - Add a script to `package.json` to run `json-server`
 
-```json
+```js
 // package.json
 
 {
